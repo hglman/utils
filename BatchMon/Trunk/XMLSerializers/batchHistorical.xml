@@ -1,0 +1,107 @@
+<BatchHistorical>
+    <dbName Name="TestDB1">
+        <Master std="0.0" productTypeID="2" run_DOW="5" mean="186.0"/>
+        <History std="0.0" productTypeID="2" run_DOW="4" post_DOW="7" mean="0.0"/>
+        <History std="0.0" productTypeID="2" run_DOW="6" post_DOW="5" mean="0.0"/>
+        <History std="0.0" productTypeID="1" run_DOW="4" post_DOW="5" mean="0.0"/>
+        <Time std="7.77266728311" run_DOW="2" type="run_time" mean="282.053857143"/>
+        <Master std="0.0" productTypeID="5" run_DOW="4" mean="414.0"/>
+        <History std="0.0" productTypeID="3" run_DOW="5" post_DOW="1" mean="0.0"/>
+        <History std="7.05951377177" productTypeID="1" run_DOW="2" post_DOW="7" mean="11.8571428571"/>
+        <History std="0.0" productTypeID="1" run_DOW="4" post_DOW="3" mean="0.0"/>
+        <Master std="0.0" productTypeID="3" run_DOW="5" mean="639.0"/>
+        <Master std="0.0" productTypeID="2" run_DOW="4" mean="186.0"/>
+        <History std="0.0" productTypeID="2" run_DOW="6" post_DOW="7" mean="0.0"/>
+        <History std="12.2174181447" productTypeID="1" run_DOW="2" post_DOW="1" mean="272.857142857"/>
+        <History std="0.0" productTypeID="5" run_DOW="2" post_DOW="2" mean="0.0"/>
+        <History std="173.21669865" productTypeID="5" run_DOW="6" post_DOW="3" mean="96.4444444444"/>
+        <History std="4.16986271981" productTypeID="2" run_DOW="3" post_DOW="7" mean="7.42857142857"/>
+        <Master std="0.0" productTypeID="5" run_DOW="6" mean="414.0"/>
+        <History std="1.99608992783" productTypeID="4" run_DOW="5" post_DOW="2" mean="5.625"/>
+        <Master std="0.0" productTypeID="3" run_DOW="4" mean="638.0"/>
+        <History std="0.0" productTypeID="3" run_DOW="6" post_DOW="7" mean="0.0"/>
+        <History std="0.0" productTypeID="5" run_DOW="2" post_DOW="1" mean="0.0"/>
+        <Time std="12.5458213938" run_DOW="4" type="run_time" mean="281.947666667"/>
+        <History std="0.0" productTypeID="5" run_DOW="2" post_DOW="7" mean="0.0"/>
+        <History std="170.290021311" productTypeID="3" run_DOW="4" post_DOW="3" mean="81.4444444444"/>
+        <History std="0.0" productTypeID="2" run_DOW="5" post_DOW="7" mean="0.0"/>
+        <History std="0.0" productTypeID="1" run_DOW="5" post_DOW="5" mean="0.0"/>
+        <History std="0.0" productTypeID="5" run_DOW="6" post_DOW="6" mean="1.0"/>
+        <History std="0.0" productTypeID="1" run_DOW="3" post_DOW="3" mean="0.0"/>
+        <History std="0.0" productTypeID="2" run_DOW="6" post_DOW="2" mean="0.0"/>
+        <History std="0.0" productTypeID="2" run_DOW="4" post_DOW="5" mean="0.0"/>
+        <Master std="0.0" productTypeID="7" run_DOW="6" mean="381.0"/>
+        <History std="0.0" productTypeID="1" run_DOW="4" post_DOW="7" mean="0.0"/>
+        <History std="8.4804697598" productTypeID="1" run_DOW="2" post_DOW="3" mean="56.7142857143"/>
+        <History std="0.0" productTypeID="3" run_DOW="5" post_DOW="3" mean="0.0"/>
+        <History std="0.0" productTypeID="5" run_DOW="6" post_DOW="5" mean="1.0"/>
+        <History std="39.676469377" productTypeID="3" run_DOW="4" post_DOW="1" mean="178.666666667"/>
+        <History std="0.0" productTypeID="2" run_DOW="5" post_DOW="1" mean="0.0"/>
+        <History std="0.0" productTypeID="2" run_DOW="6" post_DOW="1" mean="0.0"/>
+        <History std="0.0" productTypeID="5" run_DOW="2" post_DOW="3" mean="0.0"/>
+        <History std="1.51185789204" productTypeID="1" run_DOW="2" post_DOW="2" mean="4.0"/>
+        <History std="0.0" productTypeID="2" run_DOW="3" post_DOW="5" mean="1.0"/>
+        <Master std="0.0" productTypeID="6" run_DOW="4" mean="2.0"/>
+        <Master std="0.0" productTypeID="1" run_DOW="6" mean="365.0"/>
+        <History std="0.0" productTypeID="1" run_DOW="3" post_DOW="1" mean="0.0"/>
+        <History std="5.09901951359" productTypeID="3" run_DOW="4" post_DOW="7" mean="7.66666666667"/>
+        <History std="0.0" productTypeID="2" run_DOW="6" post_DOW="3" mean="0.0"/>
+        <Master std="0.0" productTypeID="6" run_DOW="5" mean="2.0"/>
+        <History std="0.0" productTypeID="1" run_DOW="3" post_DOW="7" mean="0.0"/>
+        <History std="4.50788061669" productTypeID="5" run_DOW="6" post_DOW="7" mean="10.8888888889"/>
+        <History std="0.0" productTypeID="2" run_DOW="5" post_DOW="5" mean="0.0"/>
+        <History std="18.6945011969" productTypeID="2" run_DOW="3" post_DOW="3" mean="31.375"/>
+        <History std="0.0" productTypeID="1" run_DOW="5" post_DOW="2" mean="0.0"/>
+        <History std="0.0" productTypeID="2" run_DOW="4" post_DOW="3" mean="0.0"/>
+        <History std="0.0" productTypeID="3" run_DOW="5" post_DOW="7" mean="0.0"/>
+        <Master std="0.0" productTypeID="3" run_DOW="6" mean="639.0"/>
+        <History std="0.0" productTypeID="3" run_DOW="6" post_DOW="2" mean="0.0"/>
+        <History std="0.0" productTypeID="2" run_DOW="5" post_DOW="3" mean="0.0"/>
+        <Time std="0.451753951453" run_DOW="2" type="start_time" mean="18001.2857143"/>
+        <History std="0.0" productTypeID="4" run_DOW="6" post_DOW="5" mean="0.0"/>
+        <History std="0.0" productTypeID="3" run_DOW="6" post_DOW="1" mean="0.0"/>
+        <History std="0.0" productTypeID="2" run_DOW="4" post_DOW="1" mean="0.0"/>
+        <History std="0.0" productTypeID="3" run_DOW="4" post_DOW="6" mean="1.0"/>
+        <Time std="0.496903995" run_DOW="5" type="start_time" mean="18001.5555556"/>
+        <History std="0.0" productTypeID="1" run_DOW="5" post_DOW="1" mean="0.0"/>
+        <Master std="0.0" productTypeID="2" run_DOW="6" mean="186.0"/>
+        <History std="68.249542123" productTypeID="2" run_DOW="3" post_DOW="1" mean="225.5"/>
+        <History std="0.0" productTypeID="3" run_DOW="6" post_DOW="3" mean="0.0"/>
+        <History std="0.0" productTypeID="4" run_DOW="6" post_DOW="2" mean="0.0"/>
+        <Master std="0.0" productTypeID="1" run_DOW="4" mean="365.0"/>
+        <History std="0.0" productTypeID="2" run_DOW="4" post_DOW="2" mean="0.0"/>
+        <History std="0.0" productTypeID="2" run_DOW="5" post_DOW="2" mean="0.0"/>
+        <History std="0.0" productTypeID="1" run_DOW="3" post_DOW="2" mean="0.0"/>
+        <History std="0.0" productTypeID="4" run_DOW="6" post_DOW="7" mean="0.0"/>
+        <Master std="0.0" productTypeID="6" run_DOW="6" mean="2.0"/>
+        <History std="0.0" productTypeID="3" run_DOW="6" post_DOW="6" mean="0.0"/>
+        <History std="2.27760839479" productTypeID="3" run_DOW="4" post_DOW="2" mean="4.25"/>
+        <History std="3.34811537185" productTypeID="4" run_DOW="5" post_DOW="7" mean="7.88888888889"/>
+        <History std="0.0" productTypeID="4" run_DOW="6" post_DOW="1" mean="0.0"/>
+        <History std="0.0" productTypeID="1" run_DOW="5" post_DOW="3" mean="0.0"/>
+        <Time std="12.4757214275" run_DOW="5" type="run_time" mean="284.288555556"/>
+        <Master std="0.0" productTypeID="5" run_DOW="5" mean="414.0"/>
+        <History std="0.0" productTypeID="3" run_DOW="5" post_DOW="6" mean="0.0"/>
+        <Time std="13.9350469636" run_DOW="6" type="run_time" mean="287.435888889"/>
+        <Time std="0.684934889219" run_DOW="6" type="start_time" mean="18001.4444444"/>
+        <History std="0.0" productTypeID="5" run_DOW="2" post_DOW="6" mean="0.0"/>
+        <History std="0.0" productTypeID="1" run_DOW="4" post_DOW="1" mean="0.0"/>
+        <Time std="15.9947313625" run_DOW="3" type="run_time" mean="286.140875"/>
+        <Time std="0.707106781187" run_DOW="3" type="start_time" mean="18001.5"/>
+        <History std="0.0" productTypeID="5" run_DOW="2" post_DOW="5" mean="0.0"/>
+        <Master std="0.0" productTypeID="7" run_DOW="5" mean="381.0"/>
+        <History std="0.0" productTypeID="1" run_DOW="4" post_DOW="2" mean="0.0"/>
+        <History std="39.0188305284" productTypeID="4" run_DOW="5" post_DOW="1" mean="180.444444444"/>
+        <History std="0.0" productTypeID="4" run_DOW="6" post_DOW="3" mean="0.0"/>
+        <Time std="0.831479419283" run_DOW="4" type="start_time" mean="18001.4444444"/>
+        <History std="0.0" productTypeID="4" run_DOW="5" post_DOW="5" mean="1.0"/>
+        <History std="0.0" productTypeID="3" run_DOW="5" post_DOW="2" mean="0.0"/>
+        <History std="3.15980616494" productTypeID="5" run_DOW="6" post_DOW="2" mean="6.625"/>
+        <History std="11.3735669291" productTypeID="4" run_DOW="5" post_DOW="3" mean="28.4444444444"/>
+        <Master std="0.0" productTypeID="7" run_DOW="4" mean="381.0"/>
+        <History std="0.0" productTypeID="1" run_DOW="5" post_DOW="7" mean="0.0"/>
+        <History std="28.5337140854" productTypeID="5" run_DOW="6" post_DOW="1" mean="199.777777778"/>
+        <History std="1.86338998125" productTypeID="2" run_DOW="3" post_DOW="2" mean="4.16666666667"/>
+        <Master std="0.0" productTypeID="1" run_DOW="5" mean="365.0"/>
+    </dbName>
+</BatchHistorical>

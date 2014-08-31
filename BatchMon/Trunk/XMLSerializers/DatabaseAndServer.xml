@@ -1,0 +1,5 @@
+<DatabaseAndServer>
+    <row databaseID="1234" serverId="1" dbName="TestDB1" dbDateAdded="2011-11-15T13:15:24.590"
+         databaseTypeID="7" drDB="0" IsBatchImportProd="0" dbType="Other" serverName="someServer"
+         serverDateAdded="2010-01-05T14:29:59.427" OnPrim="0" ServerIP="1.1.1.1" isDBServer="1"/>
+</DatabaseAndServer>

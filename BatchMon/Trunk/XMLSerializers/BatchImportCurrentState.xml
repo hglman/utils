@@ -1,0 +1,62 @@
+<CurrentRun>
+  <CurrentState BatchMessageID="249338">
+    <History batchName="DB_1234_Start" productTypeID="1" postDate="20130920" tranCount="153150" />
+    <History batchName="DB_1234_Start" productTypeID="2" postDate="20130920" tranCount="29524" />
+    <History batchName="DB_1234_Start" productTypeID="4" postDate="20130920" tranCount="255" />
+    <History batchName="DB_1234_Start" productTypeID="5" postDate="20130920" tranCount="18602" />
+    <History batchName="DB_1234_Start" productTypeID="7" postDate="20130920" tranCount="6491" />
+    <History batchName="DB_1234_Start" productTypeID="8" postDate="20130920" tranCount="390" />
+    <History batchName="DB_1234_Start" productTypeID="9" postDate="20130920" tranCount="2283" />
+    <History batchName="DB_1234_Start" productTypeID="1" postDate="20130921" tranCount="100730" />
+    <History batchName="DB_1234_Start" productTypeID="2" postDate="20130921" tranCount="14795" />
+    <History batchName="DB_1234_Start" productTypeID="4" postDate="20130921" tranCount="155" />
+    <History batchName="DB_1234_Start" productTypeID="5" postDate="20130921" tranCount="3990" />
+    <History batchName="DB_1234_Start" productTypeID="7" postDate="20130921" tranCount="235" />
+    <History batchName="DB_1234_Start" productTypeID="8" postDate="20130921" tranCount="107" />
+    <History batchName="DB_1234_Start" productTypeID="9" postDate="20130921" tranCount="1037" />
+    <History batchName="DB_1234_Start" productTypeID="1" postDate="20130922" tranCount="90502" />
+    <History batchName="DB_1234_Start" productTypeID="2" postDate="20130922" tranCount="6557" />
+    <History batchName="DB_1234_Start" productTypeID="4" postDate="20130922" tranCount="151" />
+    <History batchName="DB_1234_Start" productTypeID="5" postDate="20130922" tranCount="2139" />
+    <History batchName="DB_1234_Start" productTypeID="7" postDate="20130922" tranCount="6027" />
+    <History batchName="DB_1234_Start" productTypeID="8" postDate="20130922" tranCount="5" />
+    <History batchName="DB_1234_Start" productTypeID="9" postDate="20130922" tranCount="811" />
+    <History batchName="DB_1234_Finish" productTypeID="1" postDate="20130920" tranCount="153150" />
+    <History batchName="DB_1234_Finish" productTypeID="2" postDate="20130920" tranCount="29524" />
+    <History batchName="DB_1234_Finish" productTypeID="4" postDate="20130920" tranCount="255" />
+    <History batchName="DB_1234_Finish" productTypeID="5" postDate="20130920" tranCount="18602" />
+    <History batchName="DB_1234_Finish" productTypeID="7" postDate="20130920" tranCount="6491" />
+    <History batchName="DB_1234_Finish" productTypeID="8" postDate="20130920" tranCount="390" />
+    <History batchName="DB_1234_Finish" productTypeID="9" postDate="20130920" tranCount="2283" />
+    <History batchName="DB_1234_Finish" productTypeID="1" postDate="20130921" tranCount="100730" />
+    <History batchName="DB_1234_Finish" productTypeID="2" postDate="20130921" tranCount="14795" />
+    <History batchName="DB_1234_Finish" productTypeID="4" postDate="20130921" tranCount="155" />
+    <History batchName="DB_1234_Finish" productTypeID="5" postDate="20130921" tranCount="3990" />
+    <History batchName="DB_1234_Finish" productTypeID="7" postDate="20130921" tranCount="235" />
+    <History batchName="DB_1234_Finish" productTypeID="8" postDate="20130921" tranCount="107" />
+    <History batchName="DB_1234_Finish" productTypeID="9" postDate="20130921" tranCount="1037" />
+    <History batchName="DB_1234_Finish" productTypeID="1" postDate="20130922" tranCount="90502" />
+    <History batchName="DB_1234_Finish" productTypeID="2" postDate="20130922" tranCount="6557" />
+    <History batchName="DB_1234_Finish" productTypeID="4" postDate="20130922" tranCount="151" />
+    <History batchName="DB_1234_Finish" productTypeID="5" postDate="20130922" tranCount="2139" />
+    <History batchName="DB_1234_Finish" productTypeID="7" postDate="20130922" tranCount="6027" />
+    <History batchName="DB_1234_Finish" productTypeID="8" postDate="20130922" tranCount="5" />
+    <History batchName="DB_1234_Finish" productTypeID="9" postDate="20130922" tranCount="811" />
+    <History batchName="DB_1234_Finish" productTypeID="1" postDate="20130923" tranCount="131930" />
+    <History batchName="DB_1234_Finish" productTypeID="2" postDate="20130923" tranCount="20397" />
+    <History batchName="DB_1234_Finish" productTypeID="4" postDate="20130923" tranCount="227" />
+    <History batchName="DB_1234_Finish" productTypeID="5" postDate="20130923" tranCount="7058" />
+    <History batchName="DB_1234_Finish" productTypeID="8" postDate="20130923" tranCount="340" />
+    <History batchName="DB_1234_Finish" productTypeID="9" postDate="20130923" tranCount="1421" />
+    <Master batchName="DB_1234_Finish" productTypeID="1" masterCount="156039" />
+    <Master batchName="DB_1234_Finish" productTypeID="2" masterCount="290606" />
+    <Master batchName="DB_1234_Finish" productTypeID="4" masterCount="32421" />
+    <Master batchName="DB_1234_Finish" productTypeID="5" masterCount="193255" />
+    <Master batchName="DB_1234_Finish" productTypeID="8" masterCount="10304" />
+    <Master batchName="DB_1234_Finish" productTypeID="9" masterCount="31050" />
+  </CurrentState>
+  <Alert handled="0" alertText="1234-temp:DB_1234::Hash Check Fail" />
+  <Alert handled="1" alertText="1234-temp:DB_1234::test" />
+  <Alert handled="1" alertText="1234-temp:DB_1234::Missing Import File" />
+  <Alert handled="1" alertText="1234-temp:DB_1234::test" />
+</CurrentRun>

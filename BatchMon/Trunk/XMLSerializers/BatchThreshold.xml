@@ -1,0 +1,239 @@
+<BatchThreshold dbName="TestDB1">
+  <Time runDOW="1" std="7.6469257e+002" mean="1.3257377e+004" timeType="run_time" />
+  <Time runDOW="1" std="5.7879186e+000" mean="1.1782000e+004" timeType="start_time" />
+  <Time runDOW="2" std="1.5696973e+003" mean="1.6719041e+004" timeType="run_time" />
+  <Time runDOW="2" std="2.1106871e+001" mean="1.1804000e+004" timeType="start_time" />
+  <Time runDOW="3" std="6.1120605e+003" mean="1.9491313e+004" timeType="run_time" />
+  <Time runDOW="3" std="2.5370996e+001" mean="1.1774750e+004" timeType="start_time" />
+  <Time runDOW="4" std="1.0993795e+003" mean="1.7663361e+004" timeType="run_time" />
+  <Time runDOW="4" std="5.3851647e+000" mean="1.1776000e+004" timeType="start_time" />
+  <Time runDOW="5" std="1.2706935e+003" mean="2.2497688e+004" timeType="run_time" />
+  <Time runDOW="5" std="1.0606602e+001" mean="1.1780000e+004" timeType="start_time" />
+  <Time runDOW="6" std="6.0644741e+003" mean="1.2410427e+004" timeType="run_time" />
+  <Time runDOW="6" std="7.7204473e+003" mean="1.5674600e+004" timeType="start_time" />
+  <Time runDOW="7" std="3.6141570e+003" mean="1.4285051e+004" timeType="run_time" />
+  <Time runDOW="7" std="1.7781662e+001" mean="1.1776750e+004" timeType="start_time" />
+  <Master runDOW="1" std="0.0000000e+000" mean="1.5596000e+005" productTypeID="1" />
+  <Master runDOW="1" std="0.0000000e+000" mean="2.9051200e+005" productTypeID="2" />
+  <Master runDOW="1" std="0.0000000e+000" mean="3.2410000e+004" productTypeID="4" />
+  <Master runDOW="1" std="0.0000000e+000" mean="1.9315100e+005" productTypeID="5" />
+  <Master runDOW="1" std="0.0000000e+000" mean="1.0294000e+004" productTypeID="8" />
+  <Master runDOW="1" std="0.0000000e+000" mean="3.1050000e+004" productTypeID="9" />
+  <Master runDOW="4" std="0.0000000e+000" mean="1.5578000e+005" productTypeID="1" />
+  <Master runDOW="4" std="0.0000000e+000" mean="2.9029100e+005" productTypeID="2" />
+  <Master runDOW="4" std="0.0000000e+000" mean="3.2388000e+004" productTypeID="4" />
+  <Master runDOW="4" std="0.0000000e+000" mean="1.9288300e+005" productTypeID="5" />
+  <Master runDOW="4" std="0.0000000e+000" mean="1.0287000e+004" productTypeID="8" />
+  <Master runDOW="4" std="0.0000000e+000" mean="3.1043000e+004" productTypeID="9" />
+  <Master runDOW="5" std="0.0000000e+000" mean="1.5583600e+005" productTypeID="1" />
+  <Master runDOW="5" std="0.0000000e+000" mean="2.9037000e+005" productTypeID="2" />
+  <Master runDOW="5" std="0.0000000e+000" mean="3.2401000e+004" productTypeID="4" />
+  <Master runDOW="5" std="0.0000000e+000" mean="1.9300000e+005" productTypeID="5" />
+  <Master runDOW="5" std="0.0000000e+000" mean="1.0000000e+000" productTypeID="7" />
+  <Master runDOW="5" std="0.0000000e+000" mean="1.0293000e+004" productTypeID="8" />
+  <Master runDOW="5" std="0.0000000e+000" mean="3.1047000e+004" productTypeID="9" />
+  <Master runDOW="6" std="0.0000000e+000" mean="1.5590900e+005" productTypeID="1" />
+  <Master runDOW="6" std="0.0000000e+000" mean="2.9046100e+005" productTypeID="2" />
+  <Master runDOW="6" std="0.0000000e+000" mean="3.2407000e+004" productTypeID="4" />
+  <Master runDOW="6" std="0.0000000e+000" mean="1.9311000e+005" productTypeID="5" />
+  <Master runDOW="6" std="0.0000000e+000" mean="1.0294000e+004" productTypeID="8" />
+  <Master runDOW="6" std="0.0000000e+000" mean="3.1050000e+004" productTypeID="9" />
+  <Master runDOW="7" std="0.0000000e+000" mean="1.5595600e+005" productTypeID="1" />
+  <Master runDOW="7" std="0.0000000e+000" mean="2.9050800e+005" productTypeID="2" />
+  <Master runDOW="7" std="0.0000000e+000" mean="3.2410000e+004" productTypeID="4" />
+  <Master runDOW="7" std="0.0000000e+000" mean="1.9315100e+005" productTypeID="5" />
+  <Master runDOW="7" std="0.0000000e+000" mean="1.0294000e+004" productTypeID="8" />
+  <Master runDOW="7" std="0.0000000e+000" mean="3.1050000e+004" productTypeID="9" />
+  <History runDOW="1" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="4" postDateDOW="1" />
+  <History runDOW="1" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="5" postDateDOW="1" />
+  <History runDOW="1" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="6" postDateDOW="1" />
+  <History runDOW="1" std="1.6327034e+004" mean="9.2369000e+004" productTypeID="7" postDateDOW="1" />
+  <History runDOW="1" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="4" postDateDOW="2" />
+  <History runDOW="1" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="5" postDateDOW="2" />
+  <History runDOW="1" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="6" postDateDOW="2" />
+  <History runDOW="1" std="7.6686128e+003" mean="1.1616000e+004" productTypeID="7" postDateDOW="2" />
+  <History runDOW="1" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="4" postDateDOW="4" />
+  <History runDOW="1" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="5" postDateDOW="4" />
+  <History runDOW="1" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="6" postDateDOW="4" />
+  <History runDOW="1" std="4.8564392e+001" mean="1.9000000e+002" productTypeID="7" postDateDOW="4" />
+  <History runDOW="1" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="4" postDateDOW="5" />
+  <History runDOW="1" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="5" postDateDOW="5" />
+  <History runDOW="1" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="6" postDateDOW="5" />
+  <History runDOW="1" std="1.0464417e+004" mean="1.0681250e+004" productTypeID="7" postDateDOW="5" />
+  <History runDOW="1" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="4" postDateDOW="7" />
+  <History runDOW="1" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="5" postDateDOW="7" />
+  <History runDOW="1" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="6" postDateDOW="7" />
+  <History runDOW="1" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="4" postDateDOW="8" />
+  <History runDOW="1" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="5" postDateDOW="8" />
+  <History runDOW="1" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="6" postDateDOW="8" />
+  <History runDOW="1" std="1.2927490e+002" mean="1.1100000e+002" productTypeID="7" postDateDOW="8" />
+  <History runDOW="1" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="4" postDateDOW="9" />
+  <History runDOW="1" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="5" postDateDOW="9" />
+  <History runDOW="1" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="6" postDateDOW="9" />
+  <History runDOW="1" std="2.0515396e+003" mean="2.3182500e+003" productTypeID="7" postDateDOW="9" />
+  <History runDOW="2" std="2.6293883e+004" mean="1.2833300e+005" productTypeID="1" postDateDOW="1" />
+  <History runDOW="2" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="5" postDateDOW="1" />
+  <History runDOW="2" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="6" postDateDOW="1" />
+  <History runDOW="2" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="7" postDateDOW="1" />
+  <History runDOW="2" std="6.1316929e+003" mean="1.8785250e+004" productTypeID="1" postDateDOW="2" />
+  <History runDOW="2" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="5" postDateDOW="2" />
+  <History runDOW="2" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="6" postDateDOW="2" />
+  <History runDOW="2" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="7" postDateDOW="2" />
+  <History runDOW="2" std="9.6447845e+001" mean="2.7225000e+002" productTypeID="1" postDateDOW="4" />
+  <History runDOW="2" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="5" postDateDOW="4" />
+  <History runDOW="2" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="6" postDateDOW="4" />
+  <History runDOW="2" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="7" postDateDOW="4" />
+  <History runDOW="2" std="3.0302026e+003" mean="7.2172500e+003" productTypeID="1" postDateDOW="5" />
+  <History runDOW="2" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="5" postDateDOW="5" />
+  <History runDOW="2" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="6" postDateDOW="5" />
+  <History runDOW="2" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="7" postDateDOW="5" />
+  <History runDOW="2" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="5" postDateDOW="7" />
+  <History runDOW="2" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="6" postDateDOW="7" />
+  <History runDOW="2" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="7" postDateDOW="7" />
+  <History runDOW="2" std="2.2662892e+002" mean="3.1100000e+002" productTypeID="1" postDateDOW="8" />
+  <History runDOW="2" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="5" postDateDOW="8" />
+  <History runDOW="2" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="6" postDateDOW="8" />
+  <History runDOW="2" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="7" postDateDOW="8" />
+  <History runDOW="2" std="3.8701962e+002" mean="1.4987500e+003" productTypeID="1" postDateDOW="9" />
+  <History runDOW="2" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="5" postDateDOW="9" />
+  <History runDOW="2" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="6" postDateDOW="9" />
+  <History runDOW="2" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="7" postDateDOW="9" />
+  <History runDOW="3" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="1" postDateDOW="1" />
+  <History runDOW="3" std="1.3122210e+004" mean="1.2925650e+005" productTypeID="2" postDateDOW="1" />
+  <History runDOW="3" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="6" postDateDOW="1" />
+  <History runDOW="3" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="7" postDateDOW="1" />
+  <History runDOW="3" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="1" postDateDOW="2" />
+  <History runDOW="3" std="5.6918003e+003" mean="2.3769750e+004" productTypeID="2" postDateDOW="2" />
+  <History runDOW="3" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="6" postDateDOW="2" />
+  <History runDOW="3" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="7" postDateDOW="2" />
+  <History runDOW="3" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="1" postDateDOW="4" />
+  <History runDOW="3" std="1.1359357e+002" mean="3.0700000e+002" productTypeID="2" postDateDOW="4" />
+  <History runDOW="3" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="6" postDateDOW="4" />
+  <History runDOW="3" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="7" postDateDOW="4" />
+  <History runDOW="3" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="1" postDateDOW="5" />
+  <History runDOW="3" std="1.0996141e+003" mean="7.2695000e+003" productTypeID="2" postDateDOW="5" />
+  <History runDOW="3" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="6" postDateDOW="5" />
+  <History runDOW="3" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="7" postDateDOW="5" />
+  <History runDOW="3" std="1.7233905e+002" mean="9.9500000e+001" productTypeID="1" postDateDOW="7" />
+  <History runDOW="3" std="0.0000000e+000" mean="6.2120000e+003" productTypeID="2" postDateDOW="7" />
+  <History runDOW="3" std="8.6602545e+000" mean="5.0000000e+000" productTypeID="6" postDateDOW="7" />
+  <History runDOW="3" std="1.5588457e+001" mean="9.0000000e+000" productTypeID="7" postDateDOW="7" />
+  <History runDOW="3" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="1" postDateDOW="8" />
+  <History runDOW="3" std="3.7600067e+002" mean="4.7300000e+002" productTypeID="2" postDateDOW="8" />
+  <History runDOW="3" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="6" postDateDOW="8" />
+  <History runDOW="3" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="7" postDateDOW="8" />
+  <History runDOW="3" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="1" postDateDOW="9" />
+  <History runDOW="3" std="1.2254930e+003" mean="2.3905000e+003" productTypeID="2" postDateDOW="9" />
+  <History runDOW="3" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="6" postDateDOW="9" />
+  <History runDOW="3" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="7" postDateDOW="9" />
+  <History runDOW="4" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="1" postDateDOW="1" />
+  <History runDOW="4" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="2" postDateDOW="1" />
+  <History runDOW="4" std="4.5278311e+003" mean="1.2727950e+005" productTypeID="3" postDateDOW="1" />
+  <History runDOW="4" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="7" postDateDOW="1" />
+  <History runDOW="4" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="1" postDateDOW="2" />
+  <History runDOW="4" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="2" postDateDOW="2" />
+  <History runDOW="4" std="1.3846168e+003" mean="2.1422750e+004" productTypeID="3" postDateDOW="2" />
+  <History runDOW="4" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="7" postDateDOW="2" />
+  <History runDOW="4" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="1" postDateDOW="4" />
+  <History runDOW="4" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="2" postDateDOW="4" />
+  <History runDOW="4" std="6.6563408e+001" mean="2.1325000e+002" productTypeID="3" postDateDOW="4" />
+  <History runDOW="4" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="7" postDateDOW="4" />
+  <History runDOW="4" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="1" postDateDOW="5" />
+  <History runDOW="4" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="2" postDateDOW="5" />
+  <History runDOW="4" std="5.7135803e+002" mean="6.2950000e+003" productTypeID="3" postDateDOW="5" />
+  <History runDOW="4" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="7" postDateDOW="5" />
+  <History runDOW="4" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="1" postDateDOW="7" />
+  <History runDOW="4" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="2" postDateDOW="7" />
+  <History runDOW="4" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="7" postDateDOW="7" />
+  <History runDOW="4" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="1" postDateDOW="8" />
+  <History runDOW="4" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="2" postDateDOW="8" />
+  <History runDOW="4" std="1.3140205e+002" mean="3.3500000e+002" productTypeID="3" postDateDOW="8" />
+  <History runDOW="4" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="7" postDateDOW="8" />
+  <History runDOW="4" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="1" postDateDOW="9" />
+  <History runDOW="4" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="2" postDateDOW="9" />
+  <History runDOW="4" std="2.6149893e+002" mean="1.6997500e+003" productTypeID="3" postDateDOW="9" />
+  <History runDOW="4" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="7" postDateDOW="9" />
+  <History runDOW="5" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="1" postDateDOW="1" />
+  <History runDOW="5" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="2" postDateDOW="1" />
+  <History runDOW="5" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="3" postDateDOW="1" />
+  <History runDOW="5" std="6.4471230e+003" mean="1.6437375e+005" productTypeID="4" postDateDOW="1" />
+  <History runDOW="5" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="1" postDateDOW="2" />
+  <History runDOW="5" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="2" postDateDOW="2" />
+  <History runDOW="5" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="3" postDateDOW="2" />
+  <History runDOW="5" std="3.1911570e+003" mean="3.2401500e+004" productTypeID="4" postDateDOW="2" />
+  <History runDOW="5" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="1" postDateDOW="4" />
+  <History runDOW="5" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="2" postDateDOW="4" />
+  <History runDOW="5" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="3" postDateDOW="4" />
+  <History runDOW="5" std="8.7397079e+001" mean="2.8050000e+002" productTypeID="4" postDateDOW="4" />
+  <History runDOW="5" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="1" postDateDOW="5" />
+  <History runDOW="5" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="2" postDateDOW="5" />
+  <History runDOW="5" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="3" postDateDOW="5" />
+  <History runDOW="5" std="1.7751743e+003" mean="1.0060250e+004" productTypeID="4" postDateDOW="5" />
+  <History runDOW="5" std="1.2990381e+000" mean="7.5000000e-001" productTypeID="1" postDateDOW="7" />
+  <History runDOW="5" std="2.5980762e+001" mean="1.5000000e+001" productTypeID="2" postDateDOW="7" />
+  <History runDOW="5" std="2.4428096e+002" mean="2.4025000e+002" productTypeID="3" postDateDOW="7" />
+  <History runDOW="5" std="0.0000000e+000" mean="6.6110000e+003" productTypeID="4" postDateDOW="7" />
+  <History runDOW="5" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="1" postDateDOW="8" />
+  <History runDOW="5" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="2" postDateDOW="8" />
+  <History runDOW="5" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="3" postDateDOW="8" />
+  <History runDOW="5" std="1.5432271e+002" mean="4.5700000e+002" productTypeID="4" postDateDOW="8" />
+  <History runDOW="5" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="1" postDateDOW="9" />
+  <History runDOW="5" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="2" postDateDOW="9" />
+  <History runDOW="5" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="3" postDateDOW="9" />
+  <History runDOW="5" std="1.8253407e+002" mean="2.1327500e+003" productTypeID="4" postDateDOW="9" />
+  <History runDOW="6" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="2" postDateDOW="1" />
+  <History runDOW="6" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="3" postDateDOW="1" />
+  <History runDOW="6" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="4" postDateDOW="1" />
+  <History runDOW="6" std="6.3236512e+004" mean="1.2616700e+005" productTypeID="5" postDateDOW="1" />
+  <History runDOW="6" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="2" postDateDOW="2" />
+  <History runDOW="6" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="3" postDateDOW="2" />
+  <History runDOW="6" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="4" postDateDOW="2" />
+  <History runDOW="6" std="1.2321907e+004" mean="2.4360600e+004" productTypeID="5" postDateDOW="2" />
+  <History runDOW="6" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="2" postDateDOW="4" />
+  <History runDOW="6" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="3" postDateDOW="4" />
+  <History runDOW="6" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="4" postDateDOW="4" />
+  <History runDOW="6" std="1.5036569e+002" mean="2.4439999e+002" productTypeID="5" postDateDOW="4" />
+  <History runDOW="6" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="2" postDateDOW="5" />
+  <History runDOW="6" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="3" postDateDOW="5" />
+  <History runDOW="6" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="4" postDateDOW="5" />
+  <History runDOW="6" std="6.3111411e+003" mean="1.2099400e+004" productTypeID="5" postDateDOW="5" />
+  <History runDOW="6" std="2.8968000e+003" mean="-1.4484000e+003" productTypeID="2" postDateDOW="7" />
+  <History runDOW="6" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="3" postDateDOW="7" />
+  <History runDOW="6" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="4" postDateDOW="7" />
+  <History runDOW="6" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="2" postDateDOW="8" />
+  <History runDOW="6" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="3" postDateDOW="8" />
+  <History runDOW="6" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="4" postDateDOW="8" />
+  <History runDOW="6" std="2.9711304e+002" mean="4.9120001e+002" productTypeID="5" postDateDOW="8" />
+  <History runDOW="6" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="2" postDateDOW="9" />
+  <History runDOW="6" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="3" postDateDOW="9" />
+  <History runDOW="6" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="4" postDateDOW="9" />
+  <History runDOW="6" std="7.6288544e+002" mean="1.4112000e+003" productTypeID="5" postDateDOW="9" />
+  <History runDOW="7" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="3" postDateDOW="1" />
+  <History runDOW="7" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="4" postDateDOW="1" />
+  <History runDOW="7" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="5" postDateDOW="1" />
+  <History runDOW="7" std="9.4605773e+004" mean="1.5636675e+005" productTypeID="6" postDateDOW="1" />
+  <History runDOW="7" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="3" postDateDOW="2" />
+  <History runDOW="7" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="4" postDateDOW="2" />
+  <History runDOW="7" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="5" postDateDOW="2" />
+  <History runDOW="7" std="1.3444408e+005" mean="9.2078250e+004" productTypeID="6" postDateDOW="2" />
+  <History runDOW="7" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="3" postDateDOW="4" />
+  <History runDOW="7" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="4" postDateDOW="4" />
+  <History runDOW="7" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="5" postDateDOW="4" />
+  <History runDOW="7" std="1.6739549e+004" mean="9.8192500e+003" productTypeID="6" postDateDOW="4" />
+  <History runDOW="7" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="3" postDateDOW="5" />
+  <History runDOW="7" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="4" postDateDOW="5" />
+  <History runDOW="7" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="5" postDateDOW="5" />
+  <History runDOW="7" std="2.6623079e+003" mean="5.2717500e+003" productTypeID="6" postDateDOW="5" />
+  <History runDOW="7" std="1.7320508e+000" mean="1.0000000e+000" productTypeID="3" postDateDOW="7" />
+  <History runDOW="7" std="2.3815699e+001" mean="1.3750000e+001" productTypeID="4" postDateDOW="7" />
+  <History runDOW="7" std="1.6782001e+002" mean="1.1866666e+002" productTypeID="5" postDateDOW="7" />
+  <History runDOW="7" std="2.6785205e+003" mean="1.8940000e+003" productTypeID="6" postDateDOW="7" />
+  <History runDOW="7" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="3" postDateDOW="8" />
+  <History runDOW="7" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="4" postDateDOW="8" />
+  <History runDOW="7" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="5" postDateDOW="8" />
+  <History runDOW="7" std="1.1753616e+002" mean="2.3650000e+002" productTypeID="6" postDateDOW="8" />
+  <History runDOW="7" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="3" postDateDOW="9" />
+  <History runDOW="7" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="4" postDateDOW="9" />
+  <History runDOW="7" std="0.0000000e+000" mean="0.0000000e+000" productTypeID="5" postDateDOW="9" />
+  <History runDOW="7" std="1.8371742e+003" mean="2.2280000e+003" productTypeID="6" postDateDOW="9" />
+</BatchThreshold>
